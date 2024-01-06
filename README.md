@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nurzhan</h1>
 <h3 align="center">A passionate backend developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on [Music Player like Spotify](https://github.com/Algalyq/Player_music)
-
-- 🌱 I’m currently learning **Golang**
-
-- 💬 Ask me about **Django Rest Framework**
-
 - 📫 How to reach me **algalyq@mail.ru**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFCqoQ1Sz8/IHlzws6lxGf5v0XVmx5L_A/view?utm_content=DAFCqoQ1Sz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFCqoQ1Sz8/IHlzws6lxGf5v0XVmx5L_A/view?utm_content=DAFCqoQ1Sz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
